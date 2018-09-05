@@ -1,6 +1,8 @@
+package java;
 
 public class twoSum {
-
+        int [] sums = {2, 7, 11, 15} ;
+        int target = 9;
         public static void main(String[] args) {
 
             public int[] twoSum(int[] nums, int target) {
