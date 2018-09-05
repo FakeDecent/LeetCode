@@ -9,6 +9,7 @@ public class twoSum {
                         if (nums[j] == target - nums[i]) {
                             return new int[] { i, j };
                         }
+
                     }
                 }
                 throw new IllegalArgumentException("No two sum solution");
