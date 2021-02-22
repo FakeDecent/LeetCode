@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5a39af-761c-4fda-ae56-ca43ba44be02" name="Default Changelist" comment="Revert &quot;test&quot;&#10;&#10;This reverts commit b7961905e658a1d73df3d74486d34d904140e62d.">
+    <list default="true" id="7d5a39af-761c-4fda-ae56-ca43ba44be02" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/twoSum.java" beforeDir="false" />
     </list>
     <list id="bbdef823-eab0-40cc-8749-1eada8dd5b59" name="Revert &quot;test&quot;" comment="Revert &quot;test&quot;&#10;&#10;This reverts commit b7961905" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,23 +38,24 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -74,7 +76,22 @@
       <workItem from="1610962628131" duration="276000" />
       <workItem from="1610963039731" duration="166000" />
       <workItem from="1610963258671" duration="40000" />
-      <workItem from="1610965456320" duration="1350000" />
+      <workItem from="1610965456320" duration="1575000" />
+      <workItem from="1610967977037" duration="60000" />
+      <workItem from="1611047561522" duration="172000" />
+      <workItem from="1611051010397" duration="75000" />
+      <workItem from="1611065003980" duration="141000" />
+      <workItem from="1611562591797" duration="94000" />
+      <workItem from="1611917781186" duration="338000" />
+      <workItem from="1611997848197" duration="58000" />
+      <workItem from="1612005212090" duration="196000" />
+      <workItem from="1612360018075" duration="50000" />
+      <workItem from="1612771361536" duration="490000" />
+      <workItem from="1613377072865" duration="305000" />
+      <workItem from="1613992418256" duration="37000" />
+      <workItem from="1613992667218" duration="291000" />
+      <workItem from="1613993375301" duration="498000" />
+      <workItem from="1614009590179" duration="104000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;test&quot;&#10;&#10;This reverts commit b7961905e658a1d73df3d74486d34d904140e62d.">
       <created>1610965713686</created>
@@ -97,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610966518313</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Revert &quot;test&quot;&#10;&#10;This reverts commit b7961905e658a1d73df3d74486d34d904140e62d.">
+      <created>1610966818622</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610966818622</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <created>1610966964591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610966964591</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,9 +171,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;test&quot;&#10;&#10;This reverts commit b7961905e658a1d73df3d74486d34d904140e62d." />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;test&quot;&#10;&#10;This reverts commit b7961905e658a1d73df3d74486d34d904140e62d." />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
